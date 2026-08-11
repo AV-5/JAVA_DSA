@@ -1,3 +1,4 @@
+package A2Z;
 //Problem Statement: Given an integer N, return the number of digits in N.
 import java.util.Scanner;
 public class Count_digits{

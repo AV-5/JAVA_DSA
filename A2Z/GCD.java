@@ -1,3 +1,4 @@
+package A2Z;
 // Problem Statement: Given two integers N1 and N2, find their greatest common divisor.
 
 import java.util.Scanner;
